@@ -1,4 +1,9 @@
-# Whirlpool
+<p align="center">
+  <img src="https://github.com/alex-bair/whirlpool/blob/main/frontend/public/transparent-icon.png" width="250" height="auto" />
+</p>
+
+
+<h1 align="center">Whirlpool</h1>
 
 A [Request Bin](https://pipedream.com/requestbin) clone for receiving and debugging webhooks.
 
